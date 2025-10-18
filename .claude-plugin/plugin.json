@@ -1,0 +1,13 @@
+{
+  "name": "myrs-marketing-team",
+  "description": "Comprehensive marketing automation suite with multi-agent orchestration for brand strategy, market research, persona development, content strategy, and digital asset creation",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jak Myers",
+    "email": "jak@myrs.ai"
+  },
+  "homepage": "https://github.com/jakreymyers/myrs-marketing-team",
+  "repository": "https://github.com/jakreymyers/myrs-marketing-team",
+  "license": "MIT",
+  "keywords": ["marketing", "strategy", "branding", "personas", "content", "automation", "orchestration", "research", "website"]
+}
